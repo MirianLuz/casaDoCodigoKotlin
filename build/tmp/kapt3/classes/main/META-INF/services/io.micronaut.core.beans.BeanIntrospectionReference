@@ -1,0 +1,4 @@
+br.com.zup.categories.$NewCategoryRequest$IntrospectionRef
+br.com.zup.authors.$Author$IntrospectionRef
+br.com.zup.authors.$NewAuthorRequest$IntrospectionRef
+br.com.zup.categories.$Category$IntrospectionRef

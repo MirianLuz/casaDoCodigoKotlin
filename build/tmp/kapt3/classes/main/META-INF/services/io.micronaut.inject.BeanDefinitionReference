@@ -1,0 +1,6 @@
+br.com.zup.categories.$CategoryControllerDefinitionClass
+br.com.zup.authors.$AuthorRepository$InterceptedDefinitionClass
+br.com.zup.categories.$$CategoryControllerDefinition$InterceptedDefinitionClass
+br.com.zup.authors.$AuthorControllerDefinitionClass
+br.com.zup.authors.$$AuthorControllerDefinition$InterceptedDefinitionClass
+br.com.zup.categories.$CategoryRepository$InterceptedDefinitionClass
